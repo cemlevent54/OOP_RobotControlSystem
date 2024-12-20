@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP_Robotic_Project", "OOP_Robotic_Project\OOP_Robotic_Project.vcxproj", "{70C73DF5-D0DB-43BD-A4DA-317FC389C374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Debug|x64.ActiveCfg = Debug|x64
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Debug|x64.Build.0 = Debug|x64
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Debug|x86.ActiveCfg = Debug|Win32
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Debug|x86.Build.0 = Debug|Win32
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Release|x64.ActiveCfg = Release|x64
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Release|x64.Build.0 = Release|x64
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Release|x86.ActiveCfg = Release|Win32
+		{70C73DF5-D0DB-43BD-A4DA-317FC389C374}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C32C769-F7E2-46D9-907E-B9E94259F3CF}
+	EndGlobalSection
+EndGlobal

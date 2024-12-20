@@ -1,0 +1,41 @@
+﻿  App.cpp
+  Authentication.cpp
+  ConnectionMenu.cpp
+  Encryption.cpp
+  IRSensor.cpp
+  LidarSensor.cpp
+  main.cpp
+  MAP.cpp
+C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\OOP_Robotic_Project\MAP.cpp(41,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\OOP_Robotic_Project\MAP.cpp(41,38): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Mapper.cpp
+C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\OOP_Robotic_Project\Mapper.cpp(48,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\OOP_Robotic_Project\Mapper.cpp(49,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MotionMenu.cpp
+  Point.cpp
+  Pose.cpp
+  Record.cpp
+  Robot.cpp
+  RobotControler.cpp
+  RobotOperator.cpp
+  SafeNavigation.cpp
+  SensorMenu.cpp
+  TestEncryption.cpp
+  TestIRSensor.cpp
+  Generating Code...
+C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\OOP_Robotic_Project\SensorMenu.cpp(56,1): warning C4715: 'SensorMenu::run': not all control paths return a value
+C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\OOP_Robotic_Project\MotionMenu.cpp(101,1): warning C4715: 'MotionMenu::run': not all control paths return a value
+C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\OOP_Robotic_Project\ConnectionMenu.cpp(62,1): warning C4715: 'ConnectionMenu::run': not all control paths return a value
+  Compiling...
+  TestLidarSensor.cpp
+  TestMap.cpp
+  TestMapper.cpp
+  TestPoint.cpp
+  TestPose.cpp
+  TestRecord.cpp
+  TestRobotControler.cpp
+  TestSafeNavigation.cpp
+  Generating Code...
+FestoRobotAPILib.lib(FestoRobotAPI.obj) : warning LNK4099: PDB '' was not found with 'FestoRobotAPILib.lib(FestoRobotAPI.obj)' or at ''; linking object as if no debug info
+FestoRobotAPILib.lib(pch.obj) : warning LNK4099: PDB '' was not found with 'FestoRobotAPILib.lib(pch.obj)' or at ''; linking object as if no debug info
+  OOP_Robotic_Project.vcxproj -> C:\Users\Cem Levent\Desktop\OOP_Project_end_to_end\RobotControlSystem\OOP_Robotic_Project\x64\Debug\OOP_Robotic_Project.exe
